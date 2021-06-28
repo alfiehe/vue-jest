@@ -1,4 +1,4 @@
-# vue-jest
+# vue-video-webgl
 
 ## Project setup
 ```
